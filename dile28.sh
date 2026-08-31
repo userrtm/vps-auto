@@ -9,7 +9,7 @@ BOT_TOKEN="8396973987:AAGsD2r4iRO3RJNFugE1HRpgAxhbnS0V-Qc"
 
 # GitHub RAW adresini buraya yaz.
 TEMPLATE_URL="https://raw.githubusercontent.com/userrtm/vps-auto/main/dile28.json"
-OUTPUT_NAME="dile28.json"
+OUTPUT_NAME="UserrTM-$(date +%s)-$RANDOM.json"
 
 if [[ $EUID -ne 0 ]]; then
   echo "Bu script root olarak calistirilmali."
