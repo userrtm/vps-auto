@@ -1,0 +1,1418 @@
+{
+  "panels": [
+    {
+      "name": "Panel-1",
+      "ip": "http://2.28.69.116:50052/HcsPnox2Lh3ZPHKbDX",
+      "username": "obi",
+      "password": "obi",
+      "inbounds": [
+        {
+          "id": 26,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "prem-amerika-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 419,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.165.64.141",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-419",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 27,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "prem-nedir-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 108,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "89.124.100.51",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-108",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 30,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "standart-german-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 544,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "178.105.221.216",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-544",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 29,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "bos-amerika-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 484,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.165.65.159",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-484",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 28,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "german2-bos-tcp",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 495,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "80.71.157.138",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-495",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 1,
+          "userId": 0,
+          "up": 1758052631,
+          "down": 18331035006,
+          "total": 0,
+          "allTime": 20089087637,
+          "remark": "German-1ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 160,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "195.201.38.199",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-160",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 8,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "vipcanadam",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 175,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.105.19.175",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-175",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 3,
+          "userId": 0,
+          "up": 261915681,
+          "down": 3291829956,
+          "total": 0,
+          "allTime": 3553745637,
+          "remark": "US-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 417,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.165.66.34",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-417",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 4,
+          "userId": 0,
+          "up": 630056551,
+          "down": 8437859850,
+          "total": 0,
+          "allTime": 9067916401,
+          "remark": "rus-ssgaming",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 248,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "192.144.13.238",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-248",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 5,
+          "userId": 0,
+          "up": 448750694,
+          "down": 10268463605,
+          "total": 0,
+          "allTime": 10717214299,
+          "remark": "Sweden-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 597,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.239.19.252",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-597",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 6,
+          "userId": 0,
+          "up": 272998825,
+          "down": 3273259314,
+          "total": 0,
+          "allTime": 3546258139,
+          "remark": "outline24ack",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 24,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "167.233.66.70",
+            "port": 24,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-115",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 7,
+          "userId": 0,
+          "up": 290827849,
+          "down": 2338362452,
+          "total": 0,
+          "allTime": 2629593331,
+          "remark": "vip_japan",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 320,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.105.193.231",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-320",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 8,
+          "userId": 0,
+          "up": 365569639,
+          "down": 3772431629,
+          "total": 0,
+          "allTime": 4138001268,
+          "remark": "Nedir-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 581,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "89.124.66.82",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-581",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 1,
+          "userId": 0,
+          "up": 98164043736,
+          "down": 1148382873590,
+          "total": 0,
+          "allTime": 1246563159962,
+          "remark": "standartitaly",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 2055,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.235.235.252",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-2055",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 2,
+          "userId": 0,
+          "up": 901587488,
+          "down": 10229267191,
+          "total": 0,
+          "allTime": 11130854679,
+          "remark": "German-tcp",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 363,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "104.105.64.59",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-363",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 3,
+          "userId": 0,
+          "up": 567227519,
+          "down": 8698450527,
+          "total": 0,
+          "allTime": 9265678046,
+          "remark": "NEDIR-TCP",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 394,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.239.26.241",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-394",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 4,
+          "userId": 0,
+          "up": 235813042,
+          "down": 5167638687,
+          "total": 0,
+          "allTime": 5403451729,
+          "remark": "ecofinland8",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 520,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.239.26.59",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-520",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 5,
+          "userId": 0,
+          "up": 19575651772,
+          "down": 212498783556,
+          "total": 0,
+          "allTime": 232104725853,
+          "remark": "Ge tcp 4",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 1194,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.165.62.169",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-1194",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 6,
+          "userId": 0,
+          "up": 14129661747,
+          "down": 170997837533,
+          "total": 0,
+          "allTime": 185129237850,
+          "remark": "bosdursn",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 443,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "8.208.114.75",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-443",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 7,
+          "userId": 0,
+          "up": 19301313990,
+          "down": 228410566267,
+          "total": 0,
+          "allTime": 247782286730,
+          "remark": "bos_tcp",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 115,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.134.79.167",
+            "port": 2055,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-115",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 8,
+          "userId": 0,
+          "up": 69545579260,
+          "down": 756602875514,
+          "total": 0,
+          "allTime": 826589899137,
+          "remark": "GE SS",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 1748,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "195.201.122.37",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-1748",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 1,
+          "userId": 0,
+          "up": 731326519,
+          "down": 5445278575,
+          "total": 0,
+          "allTime": 6176605094,
+          "remark": "sweenstand",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 327,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.234.103.140",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-326",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 2,
+          "userId": 0,
+          "up": 1047189883,
+          "down": 13662409793,
+          "total": 0,
+          "allTime": 14709599676,
+          "remark": "German3",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 410,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.165.65.43",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-410",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 3,
+          "userId": 0,
+          "up": 860575000,
+          "down": 15065593243,
+          "total": 0,
+          "allTime": 15926168243,
+          "remark": "bos-udp5",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 262,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.165.63.82",
+            "port": 2091,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-249",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 4,
+          "userId": 0,
+          "up": 1213947106,
+          "down": 7826548849,
+          "total": 0,
+          "allTime": 9040495955,
+          "remark": "luvipss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 506,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "37.27.180.38",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-506",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 5,
+          "userId": 0,
+          "up": 1555825610,
+          "down": 15347156250,
+          "total": 0,
+          "allTime": 16902981860,
+          "remark": "German copart",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 359,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.239.26.187",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-359",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 6,
+          "userId": 0,
+          "up": 4380139481,
+          "down": 83804003344,
+          "total": 0,
+          "allTime": 88184142825,
+          "remark": "china",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 422,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.128.55.22",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-422",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 5,
+          "userId": 0,
+          "up": 7092835416,
+          "down": 112756949309,
+          "total": 0,
+          "allTime": 119849784725,
+          "remark": "ecobos",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 458,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "89.124.68.203",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-458",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 4,
+          "userId": 0,
+          "up": 22195500314,
+          "down": 303878786130,
+          "total": 0,
+          "allTime": 326151141599,
+          "remark": "fl-6",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 393,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "77.42.75.35",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-394",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 3,
+          "userId": 0,
+          "up": 32561215217,
+          "down": 484189995091,
+          "total": 0,
+          "allTime": 517175134071,
+          "remark": "ecobos",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 413,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.234.23.16",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-413",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 2,
+          "userId": 0,
+          "up": 41873275820,
+          "down": 537675808980,
+          "total": 0,
+          "allTime": 581517048647,
+          "remark": "bos83",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 292,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "43.165.62.170",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-292",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 1,
+          "userId": 0,
+          "up": 51405322323,
+          "down": 625522221085,
+          "total": 0,
+          "allTime": 680782739649,
+          "remark": "Nl-bos",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 446,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.239.239.142",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-446",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 34,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "Eco-ss2",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 549,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "188.245.209.238",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-549",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 33,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "Eco-ss1",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 105,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "178.105.223.132",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-105",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 36,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "Vip-Switzerland-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 448,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.232.219.147",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-448",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 35,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "swedenvip-ss",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 397,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "172.234.120.208",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-397",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 37,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "bos-panel",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 414,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "89.124.97.97",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-375",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        },
+        {
+          "id": 38,
+          "userId": 0,
+          "up": 0,
+          "down": 0,
+          "total": 0,
+          "allTime": 0,
+          "remark": "bos-10",
+          "enable": true,
+          "expiryTime": 0,
+          "trafficReset": "never",
+          "lastTrafficResetTime": 0,
+          "listen": "",
+          "port": 380,
+          "protocol": "tunnel",
+          "settings": {
+            "address": "8.211.17.102",
+            "port": 1080,
+            "portMap": {},
+            "network": "tcp,udp",
+            "followRedirect": false
+          },
+          "streamSettings": "",
+          "tag": "inbound-380",
+          "sniffing": {
+            "enabled": false,
+            "destOverride": [
+              "http",
+              "tls",
+              "quic",
+              "fakedns"
+            ],
+            "metadataOnly": false,
+            "routeOnly": false
+          },
+          "clientStats": []
+        }
+      ]
+    }
+  ]
+}
