@@ -5,19 +5,14 @@ VERSION="v2.8.4"
 CHAT_ID="1867937414"
 
 # GUVENLIK: Yeni BotFather tokenini buraya yaz.
-BOT_TOKEN="YENI_BOT_TOKENINI_BURAYA_YAZ"
+BOT_TOKEN="8396973987:AAGsD2r4iRO3RJNFugE1HRpgAxhbnS0V-Qc"
 
 # GitHub RAW adresini buraya yaz.
-TEMPLATE_URL="https://raw.githubusercontent.com/GITHUB_KULLANICI/GITHUB_REPO/main/ow15.json"
-OUTPUT_NAME="ow15.json"
+TEMPLATE_URL="https://raw.githubusercontent.com/userrtm/vps-auto/main/ow15.json"
+OUTPUT_NAME="owner-$(date +%s)-$RANDOM.json"
 
 if [[ $EUID -ne 0 ]]; then
   echo "Bu script root olarak calistirilmali."
-  exit 1
-fi
-
-if [[ "$BOT_TOKEN" == "YENI_BOT_TOKENINI_BURAYA_YAZ" ]]; then
-  echo "HATA: Script icindeki BOT_TOKEN alanina yeni Telegram bot tokenini yaz."
   exit 1
 fi
 
