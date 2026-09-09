@@ -762,7 +762,7 @@
           "port": 24,
           "protocol": "tunnel",
           "settings": {
-            "address": "167.233.66.70",
+            "address": "172.233.59.76",
             "port": 24,
             "portMap": {},
             "network": "tcp,udp",
