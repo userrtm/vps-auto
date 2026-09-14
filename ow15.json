@@ -1012,7 +1012,7 @@
           "down": 112756949309,
           "total": 0,
           "allTime": 119849784725,
-          "remark": "ecobos",
+          "remark": "outlineluxury",
           "enable": true,
           "expiryTime": 0,
           "trafficReset": "never",
@@ -1021,7 +1021,7 @@
           "port": 458,
           "protocol": "tunnel",
           "settings": {
-            "address": "89.124.68.203",
+            "address": "172.238.115.174",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
