@@ -170,7 +170,7 @@
           "port": 495,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.104.170.86",
+            "address": "172.104.190.115",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -244,7 +244,7 @@
           "port": 175,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.105.19.175",
+            "address": "172.105.98.238",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -429,7 +429,7 @@
           "port": 320,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.105.193.231",
+            "address": "172.235.218.4",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -614,7 +614,7 @@
           "port": 520,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.232.239.73",
+            "address": "172.232.245.198",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -1317,7 +1317,7 @@
           "port": 397,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.234.120.208",
+            "address": "172.238.244.148",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
