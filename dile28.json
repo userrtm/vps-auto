@@ -87,7 +87,7 @@
           "down": 0,
           "total": 0,
           "allTime": 0,
-          "remark": "unknown-german2 ss",
+          "remark": "outlinelinode",
           "enable": true,
           "expiryTime": 0,
           "trafficReset": "never",
@@ -96,7 +96,7 @@
           "port": 295,
           "protocol": "tunnel",
           "settings": {
-            "address": "43.165.4.65",
+            "address": "172.238.125.60",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
