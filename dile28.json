@@ -1576,7 +1576,7 @@
           "port": 432,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.233.59.72",
+            "address": "40.160.9.35",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
