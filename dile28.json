@@ -725,7 +725,7 @@
           "port": 545,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.239.11.252",
+            "address": "172.239.15.129",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -1465,7 +1465,7 @@
           "port": 262,
           "protocol": "tunnel",
           "settings": {
-            "address": "57.131.17.45",
+            "address": "104.105.8.132",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
