@@ -873,7 +873,7 @@
           "port": 295,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.238.125.60",
+            "address": "172.236.192.176",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
