@@ -198,7 +198,7 @@
           "down": 54306372846,
           "total": 0,
           "allTime": 58093141132,
-          "remark": "England-ss2",
+          "remark": "france-golden",
           "enable": true,
           "expiryTime": 0,
           "trafficReset": "never",
@@ -207,7 +207,7 @@
           "port": 439,
           "protocol": "tunnel",
           "settings": {
-            "address": "46.101.11.12",
+            "address": "172.239.5.176",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
