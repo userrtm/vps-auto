@@ -235,7 +235,7 @@
           "down": 0,
           "total": 0,
           "allTime": 0,
-          "remark": "vipcanadam",
+          "remark": "vipturk",
           "enable": true,
           "expiryTime": 0,
           "trafficReset": "never",
@@ -244,7 +244,7 @@
           "port": 175,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.105.98.238",
+            "address": "217.11.164.88",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
