@@ -207,7 +207,7 @@
           "port": 439,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.239.2.108",
+            "address": "204.168.243.163",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
