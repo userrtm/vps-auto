@@ -355,7 +355,7 @@
           "port": 597,
           "protocol": "tunnel",
           "settings": {
-            "address": "104.105.202.75",
+            "address": "172.239.19.15",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -1280,7 +1280,7 @@
           "port": 448,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.232.218.50",
+            "address": "104.105.82.180",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -1317,7 +1317,7 @@
           "port": 397,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.238.240.175",
+            "address": "172.234.117.254",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
