@@ -281,7 +281,7 @@
           "port": 585,
           "protocol": "tunnel",
           "settings": {
-            "address": "104.105.82.172",
+            "address": "139.59.182.120",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
