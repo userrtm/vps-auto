@@ -244,7 +244,7 @@
           "port": 175,
           "protocol": "tunnel",
           "settings": {
-            "address": "217.11.164.88",
+            "address": "206.1.96.13",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
