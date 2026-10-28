@@ -1428,7 +1428,7 @@
           "port": 414,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.233.59.76",
+            "address": "172.232.128.254",
             "port": 24,
             "portMap": {},
             "network": "tcp,udp",
@@ -2353,8 +2353,8 @@
           "port": 204,
           "protocol": "tunnel",
           "settings": {
-            "address": "193.57.137.236",
-            "port": 2091,
+            "address": "172.232.135.133",
+            "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
             "followRedirect": false
