@@ -346,7 +346,7 @@
           "down": 8091101824,
           "total": 0,
           "allTime": 8853524032,
-          "remark": "Amerikass1",
+          "remark": "routerimm1",
           "enable": true,
           "expiryTime": 0,
           "trafficReset": "never",
@@ -355,8 +355,8 @@
           "port": 291,
           "protocol": "tunnel",
           "settings": {
-            "address": "43.165.125.90",
-            "port": 1080,
+            "address": "43.165.7.67",
+            "port": 1194,
             "portMap": {},
             "network": "tcp,udp",
             "followRedirect": false
@@ -1123,7 +1123,7 @@
           "down": 40263899277,
           "total": 0,
           "allTime": 42952741428,
-          "remark": "Singapur -singapur",
+          "remark": "routerim2",
           "enable": true,
           "expiryTime": 0,
           "trafficReset": "never",
@@ -1132,8 +1132,8 @@
           "port": 475,
           "protocol": "tunnel",
           "settings": {
-            "address": "43.163.26.9",
-            "port": 1080,
+            "address": "43.165.7.67",
+            "port": 255,
             "portMap": {},
             "network": "tcp,udp",
             "followRedirect": false
