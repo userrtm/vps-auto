@@ -1086,7 +1086,7 @@
           "down": 484189995091,
           "total": 0,
           "allTime": 517175134071,
-          "remark": "ecobos",
+          "remark": "premfinlandiya",
           "enable": true,
           "expiryTime": 0,
           "trafficReset": "never",
@@ -1095,7 +1095,7 @@
           "port": 413,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.234.23.16",
+            "address": "157.180.68.186",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
