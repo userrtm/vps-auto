@@ -799,7 +799,7 @@
           "port": 327,
           "protocol": "tunnel",
           "settings": {
-            "address": "37.27.205.137",
+            "address": "104.105.106.74",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
@@ -947,7 +947,7 @@
           "port": 359,
           "protocol": "tunnel",
           "settings": {
-            "address": "172.239.18.214",
+            "address": "172.239.9.20",
             "port": 1080,
             "portMap": {},
             "network": "tcp,udp",
